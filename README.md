@@ -33,16 +33,15 @@ https://pokeapi.co/api/v2/pokemon/
 
 Try searching for:
 
-- Pikachu ⚡
-- Charizard 🔥
-- Bulbasaur 🌿
-- Squirtle 💧
-- Eevee ⭐
-- Ponyta 🔥
-- Gengar 👻
-- Snorlax 😴
-- Lucario 🥊
-- Dragonite 🐉
+- Pikachu 
+- Charizard 
+- Bulbasaur 
+- Squirtle 
+- Eevee 
+- Ponyta 
+- Gengar 
+- Snorlax 
+- Lucario 
 
 ### Example Output
 
