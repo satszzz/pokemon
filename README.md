@@ -64,12 +64,6 @@ Try searching for:
 
 ---
 
-## 📸 Preview
-
-_Add a screenshot of your project here._
-
----
-
 ## 👨‍💻 Author
 
 **Satheeswaran B**
