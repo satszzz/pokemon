@@ -54,15 +54,6 @@ Try searching for:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-2. Open the project folder
-3. Run `index.html`
-4. Enter a Pokémon name and click **Search**
-
----
-
 ## 👨‍💻 Author
 
 **Satheeswaran B**
