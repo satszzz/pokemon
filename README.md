@@ -16,7 +16,7 @@ A responsive Pokémon Search Application built using HTML, CSS, JavaScript, and 
 - ⚖️ Show Pokémon weight
 - 🔥 Display Pokémon type
 - ⚡ Real-time data fetching using PokéAPI
-- 📱 Responsive design
+- 📱 Responsive design.
 
 ---
 
