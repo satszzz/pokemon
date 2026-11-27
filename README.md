@@ -8,7 +8,7 @@ A responsive Pokémon Search Application built using HTML, CSS, JavaScript, and 
 
 ---
 
-## ✨ Features
+## ✨ Features,
 
 - 🔍 Search Pokémon by name
 - 🖼️ Display Pokémon image
