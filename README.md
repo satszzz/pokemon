@@ -20,7 +20,7 @@ A responsive Pokémon Search Application built using HTML, CSS, JavaScript, and 
 
 ---
 
-## 🌐 API Used
+## 🌐 API Used,
 
 **PokéAPI**
 
